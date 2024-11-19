@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="yo">
+
 ![D-Lecol's Streak](https://github-readme-streak-stats.herokuapp.com/?user=D-Lecol&theme=vue-dark&hide_border=true)
 
 ![D-Lecol's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Lecol&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
