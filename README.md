@@ -1,4 +1,4 @@
-<img src="yo.webp" alt="yo">
+<img src="yo.webp" alt="yo"  height="100">
 
 ![D-Lecol's Streak](https://github-readme-streak-stats.herokuapp.com/?user=D-Lecol&theme=vue-dark&hide_border=true)
 
