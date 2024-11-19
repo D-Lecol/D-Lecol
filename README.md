@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="yo">
+<img src="yo.webp" alt="yo">
 
 ![D-Lecol's Streak](https://github-readme-streak-stats.herokuapp.com/?user=D-Lecol&theme=vue-dark&hide_border=true)
 
